@@ -18,7 +18,7 @@
 ## As any type of user, I want:
 - **Information about modern opportunities for web development** section, so this will allow me to understand what modern web devoloping features are suitable for me.
 
-## Should Have
+# Should Have
 ## As user I want:
 - **Reviews customer** section, so that I can learn your previous experience. 
 
